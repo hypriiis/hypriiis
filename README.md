@@ -8,11 +8,12 @@ i'm disk, i'm a lua coder n python, i do some random stuff if i'm bored..
 
 - i'm currently working on some executors
 - i'm currently learning c++
-- my discord is : microsoftdisk or diskk_.
+- my discord is : microsoftdisk or kanyebeefburgerr
 
 # discord presence & github stats
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1066269781612843029)](https://discord.com/users/1066269781612843029) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1433715596469735498)](https://discord.com/users/1433715596469735498) 
 
 ![disk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hypriiis&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
